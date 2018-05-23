@@ -27,7 +27,7 @@ Gist
 ```
 
 ## Goku
+[logo]: simulacion-flujo/39263313.jpg "Goku"
 
-[logo]: https://github.com/AndreuGN/simulacion-flujo/blob/master/39263313.jpg "Goku"
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
